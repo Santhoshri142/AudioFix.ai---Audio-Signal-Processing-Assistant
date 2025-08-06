@@ -160,7 +160,8 @@ Here is Agent Preview
 
 Question 1: Help me to troubleshoot my audio circuit signal drop.
 
-<img width="1021" height="584" alt="Screenshot 2025-08-06 161533" src="https://github.com/user-attachments/assets/ba9c42aa-a35a-454f-8d9a-452d5ccc9f04" /> <img width="942" height="457" alt="Screenshot 2025-08-06 161637" src="https://github.com/user-attachments/assets/750337f1-109d-4902-9a37-9a61c01528cd" /> 
+<img width="1021" height="584" alt="Screenshot 2025-08-06 161533" src="https://github.com/user-attachments/assets/ba9c42aa-a35a-454f-8d9a-452d5ccc9f04" /> <img width="1029" height="589" alt="image" src="https://github.com/user-attachments/assets/c2b75568-055e-423c-b40a-900e1e38cc12" /> 
+
 
 
 Question 2: How can I design a band stop filter at 0Hz noise.
