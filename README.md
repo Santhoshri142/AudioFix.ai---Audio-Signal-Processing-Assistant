@@ -27,10 +27,10 @@ AudioFix.ai is an intelligent assistant purpose-built for **audio signal process
 
 ## 🧱 Tech Stack
 
-IBM cloud lite services
-Natural Language Processing (NLP)
-Retrieval Augmented Generation (RAG)
-IBM Llama model
+- IBM cloud lite services
+- Natural Language Processing (NLP)
+- Retrieval Augmented Generation (RAG)
+- IBM Llama model
 
 
 ---
@@ -118,7 +118,7 @@ Description
 
 Instructions
 
-Select a foundation model -> IBM Granite-3.3-8B instruct
+Select a foundation model -> IBM Granite-3.3-8B instruct / IBM Llama 3-2-11b Instruction
 
 Choose the necessary tools(which are essentials for lite version)
 
@@ -146,6 +146,8 @@ Ask AudioFix.ai a question like:
 "Show me a band-pass filter for 1kHz using TL072"
 "Suggest a low-noise op-amp for guitar pedal input stage"
 
+ AI Agent Demo Preview 
+ 
 https://github.com/user-attachments/assets/f1718bac-1039-4e77-8b22-650a9ccf7a0b
 
 ---
@@ -172,9 +174,7 @@ Question 2: How can I design a band stop filter at 0Hz noise.
 
 ---
 
-## Ai Agent Demo Preview
 
-https://github.com/user-attachments/assets/00263f2d-bd7d-46df-923f-406a1491aa0e
 
 
 
