@@ -2,6 +2,7 @@
 
 AudioFix.ai is an intelligent assistant purpose-built for **audio signal processing** and **analog electronics**. It helps engineers, students, researchers, and audio enthusiasts design, debug, and optimize audio circuits with expert precision.
 
+
 ---
 ## Problem Statement
 Designing and debugging audio circuits—like amplifiers, filters, and op-amp systems—is complex and time-consuming. Users often face issues like distortion, noise, wrong component choices, and a lack of clear design resources or expert help.
